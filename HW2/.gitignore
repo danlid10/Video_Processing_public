@@ -1,0 +1,8 @@
+__pycache__
+DEBUG
+# river_results
+# *_stabilized_video.avi
+# *_faster_stabilized_video.avi
+# *_fixed_borders_stabilized_video.avi
+# RIVER_*_mse_and_time_stats.json
+# TAU_VIDEO_*_mse_and_time_stats.json
