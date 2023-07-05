@@ -1,8 +1,8 @@
 import os
 
 """ IDs """
-ID1 = 315803148
-ID2 = 307875161
+ID1 = 42
+ID2 = 42
 
 """ Paths """
 INPUT_DIR = "Inputs"
